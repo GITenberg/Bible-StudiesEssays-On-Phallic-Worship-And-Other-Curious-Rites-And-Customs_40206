@@ -1,0 +1,38 @@
+_repo: Bible-StudiesEssays-On-Phallic-Worship-And-Other-Curious-Rites-And-Customs_40206
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wheeler, J. M. (Joseph Mazzini)
+    aliases:
+    - Wheeler, Joseph M.
+    - Wheeler, Joseph Mazzini
+    birthdate: 1850
+    deathdate: 1898
+    gutenberg_agent_id: '39852'
+    url: http://www.gutenberg.org/2009/agents/39852
+description: ''
+gutenberg_issued: '2012-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40206'
+  lccn: '33038494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Phallicism'
+- !lcc 'BS'
+- !lcsh 'Rites and ceremonies in the Bible'
+- !lcsh 'Bible -- Antiquities'
+tableOfContents: Preface -- Phallic worship among the Jews -- Circumcision -- Moses
+  at the inn -- The brazen serpent, and salvation by similars -- Religion and magic
+  -- Taboos -- Blood rites -- Scapegoats -- A Bible barbarity -- Bible witchcraft
+  -- Saul's spiritualist stance at Endor -- Sacrifices -- The Passover -- The evolution
+  of Jahveh -- Joshua and the sun -- The Hebrew prophets -- Old Testament marriage
+  -- The Song of Solomon -- Sacred seven.
+title: 'Bible Studies: Essays on Phallic Worship and Other Curious Rites and Customs'
+url: http://www.gutenberg.org/ebooks/40206
